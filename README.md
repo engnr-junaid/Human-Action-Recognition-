@@ -1,2 +1,5 @@
-# Human-Action-Recognition-
-Human Action Recognition using Deep Learning. This repository contains code for recognizing human actions in videos using a Long Short-Term Memory (LSTM) network. The dataset used is UCF50. Explore the code, check out the trained model, and contribute to the project!
+# Human Action Recognition
+
+## Overview
+
+This repository contains code for Human Action Recognition using Deep Learning, specifically a Long Short-Term Memory (LSTM) network. The model is trained on the UCF50 dataset to recognize various human actions in videos. You can download dataset from [here](https://www.crcv.ucf.edu/data/UCF50.rar)
